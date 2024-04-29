@@ -1,0 +1,1 @@
+import{_ as s,a as t,o,h as e}from"./index-BUDJbm-d.js";const c={},_={class:"test-home"},n=e("div",null,"历史成绩",-1),a=e("div",{class:"tips"},"一共 10 道题,包含单选 5 道和多选 5 道",-1),d=[n,a];function i(r,l){return o(),t("div",_,d)}const f=s(c,[["render",i]]);export{f as default};
