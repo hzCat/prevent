@@ -1,1 +1,0 @@
-import{_ as s,g as t,o,q as e}from"./index-DrH4ebPx.js";const c={},_={class:"test-home"},n=e("div",null,"历史成绩",-1),a=e("div",{class:"tips"},"一共 10 道题,包含单选 5 道和多选 5 道",-1),d=[n,a];function i(r,l){return o(),t("div",_,d)}const h=s(c,[["render",i]]);export{h as default};
